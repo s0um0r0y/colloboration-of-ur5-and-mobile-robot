@@ -18,4 +18,7 @@ ros2 launch ebot_description ebot_gazebo_launch.py
 
 This should open gazebo application having mobile robot (*named as ebot*) spawned inside a warehouse.
 
+Video showing the theme implementation
+https://youtu.be/_2NcXr9mzeA
+
 
