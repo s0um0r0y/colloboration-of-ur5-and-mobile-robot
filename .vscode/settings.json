@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/soumoroy/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/soumoroy/colcon_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/home/soumoroy/colcon_ws/install/ebot_docking/local/lib/python3.10/dist-packages",
+        "/home/soumoroy/ros2_ws/build/my_robot_controller",
+        "/home/soumoroy/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/soumoroy/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/soumoroy/colcon_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/home/soumoroy/colcon_ws/install/ebot_docking/local/lib/python3.10/dist-packages",
+        "/home/soumoroy/ros2_ws/build/my_robot_controller",
+        "/home/soumoroy/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
